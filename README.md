@@ -1,2 +1,2 @@
 # Age-Machine-Project
-The Age Machine Project
+This started on 2/3/22 I was reading a coding book. It was talking about Scratch, I wanted to make sure I was taking in the information and it said a little bit about a birthday age guesser. So that turned into a Scratch Project https://scratch.mit.edu/projects/638632915/ then the next day I turned it into Python. My goal is to that every language that I learn I will write a birthday age machine in it. I have HTML and CSS to go.
