@@ -11,7 +11,7 @@ year = int(year)
 #Code from https://www.geeksforgeeks.org/python-program-to-print-current-year-month-and-day/ thanks
 from datetime import date
 todays_date = date.today()
-#Math to caculate how old somebody is
+#Math to caculate how old somebody is (\created by me
 age = todays_date.year - year
 if month - todays_date.month > 0:
     age -= 1
